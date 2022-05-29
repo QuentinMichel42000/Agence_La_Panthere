@@ -74,6 +74,13 @@ a:hover {
     padding-left: 15px
 }
 
+.textHeigh2{
+    position: relative;
+    font-size: 17px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-weight: bold;
+}
 
 .container2 {
     width: 100%;
