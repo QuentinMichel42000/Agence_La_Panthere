@@ -76,7 +76,7 @@ a:hover {
 
 .textHeigh2{
     position: relative;
-    font-size: 10px;
+    font-size: 17px;
     padding-right: 15px;
     padding-left: 15px;
     font-weight: bold;
@@ -901,7 +901,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/6.webp");
 }
 
 @media (max-width: 1024px) {
